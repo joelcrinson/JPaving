@@ -12,19 +12,19 @@ const Hero = () => (
     <Section yPadding="py-4">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-        <Link href="mailto:jesmondpaving@gmail.com">
+          <Link href="mailto:jesmondpaving@gmail.com">
             <Button xl>Email</Button>
-        </Link>
+          </Link>
         </li>
         <li>
-        <Link href="tel:07497 454882">
+          <Link href="tel:07497 454882">
             <Button xl>Phone</Button>
-        </Link>
+          </Link>
         </li>
       </NavbarTwoColumns>
     </Section>
 
-    <Section yPadding="pt-3 pb-20"> 
+    <Section yPadding="pt-3 pb-20">
       <HeroOneButton
         title={
           <>
