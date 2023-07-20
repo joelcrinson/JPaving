@@ -9,6 +9,7 @@ const Banner = () => (
     <CTABanner
       subtitle=""
       title=" Our exceptional landscaping and paving services are designed to bring your vision to life, evating your outdoor areas to a whole new level."
+      subtitle=""
       button={
         <Link href="tel:07497 454882">
           <Button>Call Now</Button>
