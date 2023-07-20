@@ -7,8 +7,8 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title=" Our exceptional landscaping and paving services are designed to bring your vision to life, evating your outdoor areas to a whole new level."
       subtitle=""
+      title=" Our exceptional landscaping and paving services are designed to bring your vision to life, evating your outdoor areas to a whole new level."
       button={
         <Link href="tel:07497 454882">
           <Button>Call Now</Button>

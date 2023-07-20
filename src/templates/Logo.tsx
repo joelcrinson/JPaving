@@ -12,13 +12,13 @@ const Logo = (props: ILogoProps) => {
 
   return (
     <span className={`inline-flex items-center text-gray-900 ${fontStyle}`}>
-    <img
-      className="mr-1 h-[124px] w-[124px]"
-      src="logo.jpg"
-      alt="Logo"
-      width={size}
-      height={size}
-    />
+      <img
+        className="mr-1 h-[124px] w-[124px]"
+        src="logo.jpg"
+        alt="Logo"
+        width={size}
+        height={size}
+      />
 
       {AppConfig.site_name}
     </span>
