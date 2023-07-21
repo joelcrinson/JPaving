@@ -31,7 +31,7 @@ const Hero = () => (
             <span className="text-primary-500">Jesmond Paving</span>
           </>
         }
-        description="At Jesmond Paving, we understand that a well-designed landscape can enhance the aesthetics and value of any property. Our team of skilled landscapers and designers works tirelessly to bring your outdoor vision to life. Whether it's a charming garden, a cozy patio, or a complete landscape overhaul, we create spaces that invite you to immerse yourself in nature's splendor."
+        description="At Jesmond Paving, we understand that a well-designed landscape can enhance the aesthetics and value of any property. Our team of skilled landscapers and designers works tirelessly to bring your outdoor vision to life. Whether it's a charming garden, a cosy patio, or a complete landscape overhaul, we create spaces that invite you to immerse yourself in nature's splendor."
         button={
           <Link href="mailto:jesmondpaving@gmail.com">
             <Button xl>Contact us now for a free quote</Button>
